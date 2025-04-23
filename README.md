@@ -1,1 +1,0 @@
-# delni-astro-web
