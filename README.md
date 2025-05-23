@@ -1,74 +1,28 @@
-# Nikola Tesla Portfolio
-Nikola Tesla Portfolio is an Astro template built with of course Astro 5.7, React 19 and TailwindCSS 4
+# Newbe👋, I'm Daniel Daryanani Delgado
+### Game Developer
 
-![Nikola Tesla Astro Portfolio](/public/social-image.jpg "Nikola Tesla Portfolio")
+I am a creative, highly social, and communicative person,
+and I tend to be very observant of my surroundings. On
+the other hand, I am motivated by curiosity and the
+desire to discover.
 
-## Getting Started
-Clone Repository
-```sh
-git clone https://github.com/iann-mathaiya/nikola-tesla.git
-```
+## Skills
 
-Install Dependencies
-```sh
-pnpm install
-```
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/>&nbsp;
+</p>
 
-Development
-```sh
-pnpm run dev
-```
+## GitHub Stats
 
-Build
-```sh
-pnpm run build
-```
+<img src="https://github-readme-stats.vercel.app/api?username=D-Delni&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-Preview
-```sh
-pnpm run preview
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Delni&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-## Project Structure
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Delni&theme=default" alt="GitHub Streak" />
 
-Inside of your Astro project, you'll see the following folders and files:
 
-```text
-/
-├── public/
-│   └── favicon.svg
-│   └── social-image.svg
-├── src/
-│   ├── actions/
-│   │   └── # Astro server actions
-│   ├── assets/
-│   │   └── # Images that are transformed, optimized and bundled by Astro 
-│   ├── components/
-│   │   └── # Astro and React components
-│   ├── layouts/
-│   │   └── RootLayout.astro
-│   └── pages/
-│   │   └── blog/
-│   │   │   └── index.astro
-│   │   │   └── [...slug].astro
-│   │   └── about.astro
-│   │   └── contact.astro
-│   │   └── index.astro
-│   │   └── projects.astro
-│   └── styles/
-│   │   └── global.css
-└── .gitignore
-└── astro.config.mjs
-└── package.json
-└── tsconfig.json
-```
-
-## Deployment
-The site is configured for deployment on Vercel, but with slight modifications it can be deployed to any hosting service.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ⛔️ Changes
-The template also uses [React Paper Shaders](https://github.com/paper-design/shaders). 
-The Paper Team will be publishing [breaking changes](https://github.com/paper-design/shaders?tab=readme-ov-file#getting-started) to the Shaders library under 0.0.x versioning so check back to get updates when they release Paper Shaders v1
