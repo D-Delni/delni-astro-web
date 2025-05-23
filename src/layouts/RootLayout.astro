@@ -6,8 +6,8 @@ import LoadingIndicator from "astro-loading-indicator/component"
 
 const { title, description } = Astro.props;
 
-const defaultTitle = "Nikola Tesla";
-const defaultDescription = "Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system.";
+const defaultTitle = "DDD";
+const defaultDescription = "Daniel DD is a Spanish-Indian creator, game developer, drone pilot, and masseuse, jack of all trades, master of none. Is it a versatile character, most of his time is dedicated to the proccess of learning different aspects of life. ";
 ---
 
 <!doctype html>
@@ -15,24 +15,18 @@ const defaultDescription = "Nikola Tesla was a Serbian-American inventor, electr
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title ?? defaultTitle}</title>
 		<meta name="description" content={description ?? defaultDescription} />
 
-		<meta property="og:url" content="https://nikola.fluidinterfaces.com/" />
+		<meta property="og:url" content="https://delni.dev/" />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content={defaultTitle} />
 		<meta property="og:description" content={defaultDescription} />
-		<meta property="og:image" content="/social-image.jpg" />
+		<!--Add more metadata here -->
 
 		<!-- Twitter Meta Tags -->
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta property="twitter:domain" content="nikola.fluidinterfaces.com" />
-		<meta property="twitter:url" content="https://nikola.fluidinterfaces.com/" />
-		<meta name="twitter:title" content={defaultTitle} />
-		<meta name="twitter:description" content={defaultDescription} />
-		<meta name="twitter:image" content="/social-image.jpg" />
 
 		<Font cssVariable="--font-geist" preload />
 		<ClientRouter />
