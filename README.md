@@ -1,10 +1,8 @@
-# Newbe👋, I'm Daniel Daryanani Delgado
-### Game Developer
+# 👋, I'm Daniel Daryanani Delgado
 
-I am a creative, highly social, and communicative person,
-and I tend to be very observant of my surroundings. On
-the other hand, I am motivated by curiosity and the
-desire to discover.
+### Game developer who is spending its time in data analytics. 😎
+
+I consider myself creative, highly social, and communicative person, yes... It could sound rare, hardly posible but we still exist. Also I tend to be very observant in my daily. Most of my motivations are guided by curiosity and the desire of creating.
 
 ## Skills
 
@@ -24,5 +22,3 @@ desire to discover.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Delni&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Delni&theme=default" alt="GitHub Streak" />
-
-
