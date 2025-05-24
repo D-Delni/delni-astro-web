@@ -10,7 +10,8 @@ I consider myself creative, highly social, and communicative person, yes... It c
 
 ###
 
-## Skills
+## 🛠 Language and tools
+
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
@@ -27,8 +28,9 @@ I consider myself creative, highly social, and communicative person, yes... It c
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=D-Delni&show_icons=true&count_private=true&theme=default" alt="GitHub D-Delni" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Delni&layout=compact&theme=default" alt="Currently in Sydney" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Delni&layout=compact&theme=default" alt="Currently here" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Delni&theme=default" alt="GitHub Streak" />
+
+
+###Credits to Ian Mathaiya
