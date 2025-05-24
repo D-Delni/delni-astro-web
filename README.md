@@ -9,9 +9,9 @@
 
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-###
 
-# 👋 I'm Daniel DD
+
+# 🧭 Daniel DD
 
 ### Game developer who is spending its time in data analytics. 😎
 
@@ -20,9 +20,10 @@
 I consider myself creative, highly social, and communicative person, yes... It could sound rare, hardly posible but we still exist. Also I tend to be very observant in my daily. Most of my motivations are guided by curiosity and the desire of creating.
 
 ###
-<p align="left"><br><br>- 🔭 Looking for new oportunities in Australia <br>- 📚 Now I'm expanding my knowledge in C# <br>- ⚡ Not relevant but important. For no perishing in the first try, sports help me a lot with coding. 😅 </p>
-###
 
+<p align="left"><br><br>- 🔭 Looking for new oportunities in Australia <br>- 📚 Now I'm expanding my knowledge in C# <br>- ⚡ Not relevant but important. For no perishing in the first try, sports help me a lot with coding. 😅 </p>
+
+###
 
 ## 🛠 Language and tools
 
@@ -35,12 +36,14 @@ I consider myself creative, highly social, and communicative person, yes... It c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="40" alt="docker logo" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+          
 </p>
 
 
 
-## GitHub Stats
+## :construction_worker: GitHub Stats
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Delni&layout=compact&theme=default" alt="Currently here" />
